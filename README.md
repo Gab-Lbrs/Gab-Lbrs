@@ -6,6 +6,7 @@ Intressted in building things in finance, fintech, and AI — always learning, a
 **Current focus:** Leveling up as a developer and creating useful projects.
 
 - 🌱 I’m currently learning Multiple languages and technologies - 💬 Ask me about anything
+- Working on a bigger project as of now in Web development for an event platform.
 
 🚀 *Growing*!--
 
